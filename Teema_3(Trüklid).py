@@ -3,7 +3,7 @@
 from random import *
 
 print(randint(1,19))
-
+# kommentaar
 
 t_arvud=0
 for i in range(15):    # i= 0,1,2,...,14
