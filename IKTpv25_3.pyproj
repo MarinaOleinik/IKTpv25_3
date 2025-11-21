@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fb02e1dc-3ac6-4812-9b0c-d37a93a1ffc5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Teema_3(Trüklid).py</StartupFile>
+    <StartupFile>Teeme_4_List.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="Kordamine.py" />
     <Compile Include="Teema_3%28Trüklid%29.py" />
+    <Compile Include="Teeme_4_List.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
