@@ -1,6 +1,7 @@
 from random import randint
-sõne=input("Sisesta sõne: ") #küsi sõne
-sõne_list=list(sõne) #muudab sõne listiks
+sõne="" #tühi sõne
+sõne=input("Sisesta sõne: ") #küsi sõne="Python"
+sõne_list=list(sõne) #muudab sõne listiks sõne_list=['P','y','t','h','o','n']
 print(f"Sõne oli: {sõne}")
 print(f"Sõne listina: {sõne_list}")
 list2=[] #tühi list
